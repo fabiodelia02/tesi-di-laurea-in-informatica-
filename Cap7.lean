@@ -1,13 +1,3 @@
--- Cap7.lean — Limiti della non interferenza formalizzata
--- ===========================================================
--- Questo file contiene il codice corrispondente al Capitolo 7.
---
--- In particolare, la Sezione 7.2 mostra che il sistema di tipi e il
--- controllore okLevel non impediscono l'uso della terminazione come
--- canale di informazione. Questo limite non dipende dall'implementazione
--- dell'analisi statica, ma dalla nozione di non interferenza
--- termination-insensitive garantita dal teorema noninterference.
-
 import Tesi.Cap6_6
 
 
